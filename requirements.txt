@@ -1,0 +1,9 @@
+eel
+pygame
+speechrecognition
+pyttsx3
+pyaudio
+wikipedia
+requests
+flask
+opencv-python
